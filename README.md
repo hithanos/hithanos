@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="400" height="220" />
 
-### I am an aspiring full stack developer, who like to learn and work upon the latest high-end technologies, and build solutions beneficial for mankind, using a perfect blend of technology and innovation.
+#### I am an aspiring full stack developer, who like to learn and work upon the latest high-end technologies, and build solutions beneficial for mankind, using a perfect blend of technology and innovation.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
